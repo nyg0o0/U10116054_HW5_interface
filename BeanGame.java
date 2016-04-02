@@ -1,6 +1,14 @@
-/*
-
+/* 
+********************** BeanGame java Assignment *********************
+*	Strudent ID: U10116054											*
+*	Strudent Name: Yu-Hsin Chen										*
+*	Assign Date: 4/2												*
+*	Content: This is a interface program for bean manchine.			*
+*********************************************************************
+*	--> BeanGame.java : Test class									*
+*********************************************************************
 */
+
 
 // import library
 import javafx.application.Application;
